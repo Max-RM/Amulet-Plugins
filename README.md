@@ -27,3 +27,9 @@ Edit/Export/Import Tickingarea - "tickingarea_"
 Edit/Export/Import Villages-Data - "VILLAGE_"
 
 Edit/Export/Import Mcstructure - "structuretemplate_mystructure" or "structuretemplate_"
+
+============
+(Added on 02.25.2026)
+Hollow Shell
+Hollow Shell 2.3 is a plugin capable of emptying the insides of mountains, plains and other terrain elements with flexible emptying settings.
+The plugin will empty the area you have selected, but be careful not to use it on your buildings, as the plugin may remove the necessary blocks of mechanisms or architectural structures.
