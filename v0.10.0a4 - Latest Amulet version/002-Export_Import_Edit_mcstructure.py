@@ -612,3 +612,4 @@ export = dict(
     name=f"v002 Edit/Export/Import Mcstructure v{PLUGIN_VERSION}",
     operation=SetBlock,
 )
+#Based on PremierHell's code and modified by MaxRM
